@@ -1,0 +1,2 @@
+# sam-pay-android
+SamsungPay
